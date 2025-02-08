@@ -1,0 +1,12 @@
+no terminal 
+
+para iniciar servidor - sudo systemctl start httpd
+
+
+ 
+pra acessar  http://localhost/linguagemServidor/index.php
+
+
+se precisar 
+sudo firewall-cmd --permanent --add-port=8080/tcp
+sudo firewall-cmd --reload
