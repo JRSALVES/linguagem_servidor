@@ -3,8 +3,12 @@ no terminal
 para iniciar servidor - sudo systemctl start httpd
 
 
- 
-pra acessar  http://localhost/linguagemServidor/index.php
+pra acessar:
+php -S localhost:8000
+http://localhost:8000/minhaFuncao.php
+
+ou 
+http://localhost/linguagemServidor/index.php
 
 
 se precisar 
