@@ -4,11 +4,11 @@ para iniciar servidor - sudo systemctl start httpd
 
 
 pra acessar:
-php -S localhost:8000
-http://localhost:8000/minhaFuncao.php
+php -S localhost:8080
+http://localhost:8080/minhaFuncao.php
 
-ou 
-http://localhost/linguagemServidor/index.php
+ou (no Windows)
+http://localhost:8080/senac/linguagemServidor/program/funcoes/minhaFuncaoNome.php
 
 
 se precisar 
