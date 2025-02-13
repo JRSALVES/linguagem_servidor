@@ -7,9 +7,20 @@ pra acessar:
 php -S localhost:8080
 http://localhost:8080/minhaFuncao.php
 
+<<<<<<< HEAD
 ou (no Windows)
 http://localhost:8080/senac/linguagemServidor/program/funcoes/minhaFuncaoNome.php
+=======
+ou 
+para o caminho completo 
+/var/www/html/linguagemServidor/program/funcoes/
+>>>>>>> 6f51587 (Alterações pasta)
 
+digitar
+ocalhost//linguagemServidor/program/variaveis/string.php
+
+
+http://localhost//w3schools/loop.php
 
 se precisar 
 sudo firewall-cmd --permanent --add-port=8080/tcp
