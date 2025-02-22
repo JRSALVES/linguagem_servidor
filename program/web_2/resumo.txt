@@ -1,0 +1,18 @@
+
+1 - Explicação da WWW .
+    . Universo WWW.
+        Arquitetura -   Clients --> Server - cliente envia requisição ao servidor que retorma as respostas em forma de pacotes 
+                        Server --> Clients.
+
+        Protocolos: UDP, FTP, ICMP, SMTP, HTTP...
+        HTTP -> HiperText Transfer Protocol (Protocolo de Transferencia de Hipertesto).
+
+        Metodos de Requisições: POST, GET, DELETE, PUT
+
+        HTML -> HiperText Markup Language, formado por tags, que são delimitadas por <html> inicio e </html> fim, entre outra tags.
+            Leitura do codigo é de cima para baixo, linha a linha.
+
+
+2 - Explicação Linguagem PHP.
+    Xampp, localização dos arquivos a serem executados. localhost = diertorio htdocs.
+
