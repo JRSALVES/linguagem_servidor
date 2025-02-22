@@ -14,5 +14,6 @@
 
 
 2 - Explicação Linguagem PHP.
-    Xampp, localização dos arquivos a serem executados. localhost = diertorio htdocs.
+    Xampp, localização dos arquivos a serem executados. localhost = diertorio www para Linux.
 
+http://localhost/linguagemServidor/program/Testes/sessao/banco.php

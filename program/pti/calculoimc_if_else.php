@@ -21,5 +21,4 @@ function classificarIMC($imc) {
 // Testando a função com um valor de exemplo
 $valorIMC = 25.30;
 classificarIMC($valorIMC);
-
 ?>
