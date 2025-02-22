@@ -1,2 +1,4 @@
 Instalação do Wamp.
-     configurando ambiente de trabalho
+     Esplanando o conteúdo do curso.
+     Configurando ambiente de trabalho Xampp
+          Por usar linux optei por instalar os modulos seprados. PHP, Apache e MySql
