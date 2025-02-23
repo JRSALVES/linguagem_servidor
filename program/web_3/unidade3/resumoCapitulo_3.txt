@@ -1,0 +1,5 @@
+PHP é case-sensitive
+
+Para cria variavel usar $nome_variável
+e.g: $idade
+Para atrinubir valor á variável <?php $idade = 20 ?>

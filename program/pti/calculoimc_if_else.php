@@ -1,3 +1,5 @@
+<h1>Calssificação de IMC</h1>
+
 <?php
 
 function classificarIMC($imc) {
@@ -15,10 +17,10 @@ function classificarIMC($imc) {
         $classificacao = "Obesidade Grau III";
     }
     
-    echo "Atenção, seu IMC é " . $imc . ", e você está classificado como " . $classificacao . "<br>";
+    echo "Atenção, seu IMC é " . $imc . ", sua classificação de IMC é " . $classificacao . "<br>";
 }
 
-// Testando a função com um valor de exemplo
-$valorIMC = 25.30;
+// Para testar função digite um valor de exemplo para a variável $valorIMC abaixo.
+$valorIMC = 23;
 classificarIMC($valorIMC);
 ?>

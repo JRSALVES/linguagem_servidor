@@ -39,7 +39,7 @@ require "menu.php";
 ?>
 <h1> teste </h1>
 <?php
-$indice = 11;
+$indice = 0;
 while ($indice <= 10) {
     ?>
     <br>
